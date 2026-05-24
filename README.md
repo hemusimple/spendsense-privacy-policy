@@ -154,7 +154,7 @@ If you have any questions, concerns, or feedback about this
 Privacy Policy or SpendSense, please contact us by opening 
 an issue on our GitHub repository:
 
-**https://github.com/YOUR_GITHUB_USERNAME/spendsense-privacy-policy/issues**
+**https://github.com/hemusimple/spendsense-privacy-policy/issues**
 
 ---
 
