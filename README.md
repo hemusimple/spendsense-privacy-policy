@@ -126,7 +126,42 @@ Since we never receive your data, we have nothing to delete on our end.
 
 ---
 
-## 11. Changes to This Policy
+## 11. Limitation of Liability
+
+**Backup & Restore**  
+SpendSense provides a backup and restore feature for your convenience. 
+However:
+- We are not responsible for any data loss, corruption, or damage 
+  that may occur during backup or restore operations
+- We are not responsible if a backup file becomes unreadable, 
+  incomplete, or corrupted due to device issues, storage errors, 
+  or any other reason
+- It is your responsibility to verify your backup files and maintain 
+  multiple copies if needed
+- We strongly recommend keeping your backup files in a secure location
+
+**Exported Files (PDF & CSV)**  
+SpendSense allows you to export your financial data as PDF or CSV files. 
+Please note:
+- Once you export and share these files, they are entirely outside 
+  our control
+- We are not responsible for any consequences arising from sharing, 
+  forwarding, or mishandling of exported files
+- Exported files may contain sensitive financial information — 
+  treat them with the same care as any financial document
+- We are not responsible if exported files are accessed by 
+  unauthorized persons as a result of your sharing actions
+- Always share exported files only through secure and trusted channels
+
+**General**  
+SpendSense is provided "as is" without warranties of any kind, 
+either expressed or implied. To the fullest extent permitted by 
+applicable law, we disclaim all liability for any damages arising 
+from the use or inability to use this application, including but 
+not limited to data loss, device damage, or financial decisions 
+made based on information displayed in the app.
+
+## 12. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will 
 be posted on this page with an updated date. We encourage you to review 
 this page periodically. Continued use of the app after changes 
@@ -134,14 +169,14 @@ constitutes acceptance of the updated policy.
 
 ---
 
-## 12. Your Rights
+## 13. Your Rights
 Since SpendSense collects no personal data, there is no data for us 
 to provide, correct, or delete on our end. You have full control over 
 all your data at all times through your device.
 
 ---
 
-## 13. Disclaimer
+## 14. Disclaimer
 SpendSense is provided for personal finance tracking purposes only. 
 The tax and EMI calculations are estimates based on publicly available 
 information and should not be considered professional financial or tax 
@@ -149,7 +184,7 @@ advice. Always consult a qualified professional for financial decisions.
 
 ---
 
-## 14. Contact
+## 15. Contact
 If you have any questions, concerns, or feedback about this 
 Privacy Policy or SpendSense, please contact us by opening 
 an issue on our GitHub repository:
